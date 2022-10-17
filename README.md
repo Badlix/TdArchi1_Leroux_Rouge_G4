@@ -7,7 +7,8 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 Au badminton, il existe un système de classement qui permey d'avoir une idée d niveau du joueur. A chaque compétition, en fonction du niveau de la compétition _(départementale, régionale, national...)_ et du nombre de victoire, le joueur gagne un certain nombre de points.
 
-| Nom du classement | Nombre de points |
+| Classement | Points |
+| ---------- |:------:| 
 | N1 | 2048 | 
 | N2 | 1024 |
 | N3 | 512 |
