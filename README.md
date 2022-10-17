@@ -33,3 +33,8 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 **Signification des initiales :** N pour national, R pour régional, D pour départemental et P pour promotion
 > Seul les 6 meilleurs résultats de compétition sont retenue sur une période de un an, par exemple si un joueur gagne 10 points à une compétition le 1 Janvier 2022, ces points ne seront plus comtabilisé dans son classement à partir du 1 Janvier 2023. Il faut donc faire des compétitions régulièrement pour garder son classement.
 
+## Top 10 France
+
+| Rang | Nom | Prenom | Nombre de Points |
+|------|----:|:-------|------------------|
+| '1'  |
