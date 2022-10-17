@@ -5,10 +5,10 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 ## Matériel
 
-1- Une raqutte
-2- Un volant
-3- Une tenue de sport
-4- un partenaire de jeu !
+-1 Une raqutte
+-2 Un volant
+-3 Une tenue de sport
+-4 un partenaire de jeu !
 
 ## Le Terrain
 
