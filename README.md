@@ -50,4 +50,4 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 |`4`|LANIER|Alex|15 472,85|
 |`5`|LEVERDEZ|Brice|14 348,37|
 
-#### Merci de votre lecture
+#### Merci de votre lecture :D
