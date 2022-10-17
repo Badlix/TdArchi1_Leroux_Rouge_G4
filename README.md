@@ -5,7 +5,9 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 ## Matériel
 
-1. Une raqutte
+1. Une raquette
+  1. choisir le poid et sa répartition (pas utile pour les débutant)
+  2. choisir la tention du cordage (10 oar défaut quand vous achetéune raquette)
 2. Un volant
 3. Une tenue de sport
 4. un partenaire de jeu !
