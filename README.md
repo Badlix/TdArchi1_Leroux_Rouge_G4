@@ -22,5 +22,5 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 | P11 | 2 |
 | P12 | 0,0001|
 
-*Signification des initiales :* N pour national, R pour régional, D pour départemental et P pour promotion
+**Signification des initiales :** N pour national, R pour régional, D pour départemental et P pour promotion
 > Après sa première compétition, un joueur sera automatiquement classé au moins P12
