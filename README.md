@@ -5,6 +5,11 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 ## Le Terrain
 
+- Le terrain au contour bleu correspond au dimensions du terrain en simple _(un contre un)_.
+- Le terrain au contour noirs correpond au dimensions du terrain en double _(deux contre deux)_.
+![Terrain_Bad](https://user-images.githubusercontent.com/113862047/196180723-52cdd468-1f63-4108-9d57-1593e9c51e22.jpg)
+> La ligne en pointillée représente le filet.
+
 ## Le Système de classement
 
 Au badminton, il existe un système de classement qui permey d'avoir une idée d niveau du joueur. A chaque compétition, le nombre de points gagné par le joueur dépend du niveau de la compétition _(départementale, régionale, national...)_ et du résultat des matchs.
