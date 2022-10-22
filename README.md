@@ -1,4 +1,4 @@
-# Le Badminton 
+# Le Badminton 🏸
 
 Le badminton est un sport qui se joue avec **une raquette** et **un volant**, sur un **terrain**.
 En France, les clubs et compétitions de badmiton sont gérée par la [Fédération Française de Badminton](https://www.ffbad.org/).
@@ -59,7 +59,7 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 - Rouge Gabriel [^2]
 - ~~Un exemple de texte barré~~
 
-``` Merci de votre lecture ``` :joy: 
+``` Merci de votre lecture ``` 😎
 
 
 [^1]: un élève du groupe 4
