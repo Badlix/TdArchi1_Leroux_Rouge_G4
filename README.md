@@ -15,7 +15,7 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 4. un partenaire de jeu !
 
 
-## Le Terrain
+## [Le Terrain](TdArchi1_Leroux_Rouge_G4/terrain)
 
 
 - Le terrain au contour bleu correspond au dimensions du terrain en simple _(un contre un)_.
@@ -95,7 +95,6 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 - la formules pour calculer les racines d'un polynôme du 2nd degrès : $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 - la formule chimique de l'eau : H<sub>2</sub>0
 - éctiture scientifique de 10x10x10 : 10<sup>3</sup>
-
 
 ``` Merci de votre lecture ``` 😎
 
