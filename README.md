@@ -57,11 +57,9 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 
 - Leroux Mathieu [^1]
 - Rouge Gabriel [^2]
+- ~~Un exemple de texte barré~~
 
-	term
-: definition
-
-``` Merci de votre lecture :D ```
+``` Merci de votre lecture :joy: ```
 
 
 [^1]: un élève du groupe 4
