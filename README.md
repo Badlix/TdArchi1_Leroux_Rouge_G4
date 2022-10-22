@@ -54,4 +54,4 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 |`5`|LEVERDEZ|Brice|14 348,37|
 
 
-``` #### Merci de votre lecture :D ```
+``` Merci de votre lecture :D ```
