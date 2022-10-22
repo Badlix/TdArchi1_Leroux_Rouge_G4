@@ -5,7 +5,7 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 ## Matériel
 
-1. Une raquette
+1. Une raquette[^1]
     - choisir le poid et sa répartition (pas utile pour les débutant)
     - choisir la tention du cordage (10 oar défaut quand vous achetéune raquette)
 2. Un volant
@@ -19,6 +19,22 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 ![Terrain_Bad](https://user-images.githubusercontent.com/113862047/196180723-52cdd468-1f63-4108-9d57-1593e9c51e22.jpg)
 > La ligne en pointillée représente le filet.
+
+## Type de Volants
+
+#### Volant en plastique
+
+- [x] Durable 
+- [x] Pas cher
+- [ ] Trajectoire adaptée aux matchs de haut niveau
+
+### Volant à plumes
+
+- [ ] Durable 
+- [ ] Pas cher
+- [x] Trajectoire adaptée aux matchs de haut niveau
+
+> ⚠️ En compétition officielle, les volants à plume sont obligatoire et génèralement fournis par les joueurs
 
 ## Le Système de classement
 
@@ -55,12 +71,17 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 
 # Auteurs
 
-- Leroux Mathieu [^1]
-- Rouge Gabriel [^2]
+- Leroux Mathieu [^2]
+- Rouge Gabriel [^3]
+
+# Autres 
+
 - ~~Un exemple de texte barré~~
+- Formule chimique de l'eau : H~2~O
+- 10 puissances 5 : 10^5^
 
 ``` Merci de votre lecture ``` 😎
 
-
-[^1]: un élève du groupe 4
-[^2]: un autre élève du groupe 4
+[^1]: [un article qui détaille comment choisir sa raquette](https://colizey.fr/magazine/article/225-comment-choisir-sa-raquette-de-badminton)
+[^2]: un élève du groupe 4
+[^3]: un autre élève du groupe 4
