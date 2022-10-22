@@ -19,6 +19,7 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 ![Terrain_Bad](https://user-images.githubusercontent.com/113862047/196180723-52cdd468-1f63-4108-9d57-1593e9c51e22.jpg)
 > La ligne en pointillée représente le filet.
+> [une vidéo expliquant les règles du badminton](https://www.youtube.com/watch?v=VFEElVxJa08&ab_channel=ProfEPSK.MENET)
 
 ## Type de Volants
 
