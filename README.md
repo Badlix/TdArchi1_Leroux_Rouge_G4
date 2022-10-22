@@ -95,6 +95,7 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 - la formules pour calculer les racines d'un polynôme du 2nd degrès : $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 - la formule chimique de l'eau : H<sub>2</sub>0
 - éctiture scientifique de 10x10x10 : 10<sup>3</sup>
+- exemple de ce que à quoi ressemble la couleur rouge : `rgb(255, 0, 0)`
 
 
 ``` Merci de votre lecture ``` 😎
