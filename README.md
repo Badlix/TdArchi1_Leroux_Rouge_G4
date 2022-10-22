@@ -85,7 +85,7 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 
 - Leroux Mathieu [^2]
 - Rouge Gabriel [^3]
-> autres travaux de ces deux auteurs : [Léo Wiki](TdArchi1_Leroux_Rouge_G4/wiki)
+> autres travaux de ces deux auteurs : [Léo Wiki](wiki)
 
 # Autres 
 
