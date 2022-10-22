@@ -53,5 +53,13 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 |`4`|LANIER|Alex|15 472,85|
 |`5`|LEVERDEZ|Brice|14 348,37|
 
+# Auteurs
+
+- Leroux Mathieu [^1]
+- Rouge Gabriel [^2]
 
 ``` Merci de votre lecture :D ```
+
+
+[^1]: un élève du groupe 4
+[^2]: un autre élève du groupe 4
