@@ -93,6 +93,7 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 
 - ~~Un exemple de texte barré~~
 - la formules pour calculer les racines d'un polynôme du 2nd degrès : $-b \pm \sqrt{b^2 - 4ac} \over 2a$
+- la formule chimique de l'eau : H<sub>2</sub>0
 
 
 ``` Merci de votre lecture ``` 😎
