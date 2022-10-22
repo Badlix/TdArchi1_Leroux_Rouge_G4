@@ -15,7 +15,7 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 4. un partenaire de jeu !
 
 
-## [Le Terrain](TdArchi1_Leroux_Rouge_G4/terrain)
+## Le Terrain
 
 
 - Le terrain au contour bleu correspond au dimensions du terrain en simple _(un contre un)_.
@@ -83,10 +83,9 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 
 # Auteurs
 
-
 - Leroux Mathieu [^2]
 - Rouge Gabriel [^3]
-
+> autres travaux de ces deux auteurs : [Léo Wiki](TdArchi1_Leroux_Rouge_G4/wiki)
 
 # Autres 
 
