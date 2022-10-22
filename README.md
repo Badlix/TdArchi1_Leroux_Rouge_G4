@@ -3,7 +3,9 @@
 Le badminton est un sport qui se joue avec **une raquette** et **un volant**, sur un **terrain**.
 En France, les clubs et compétitions de badmiton sont gérée par la [Fédération Française de Badminton](https://www.ffbad.org/).
 
+
 ## Matériel
+
 
 1. Une raquette[^1]
     - choisir le poid et sa répartition (pas utile pour les débutant)
@@ -12,7 +14,9 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 3. Une tenue de sport
 4. un partenaire de jeu !
 
+
 ## Le Terrain
+
 
 - Le terrain au contour bleu correspond au dimensions du terrain en simple _(un contre un)_.
 - Le terrain au contour noirs correpond au dimensions du terrain en double _(deux contre deux)_.
@@ -21,7 +25,9 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 > La ligne en pointillée représente le filet.
 > [*ceci est une vidéo expliquant les règles du badminton*](https://www.youtube.com/watch?v=VFEElVxJa08&ab_channel=ProfEPSK.MENET)
 
+
 ## Type de Volants
+
 
 #### Volant en plastique
 
@@ -37,7 +43,9 @@ En France, les clubs et compétitions de badmiton sont gérée par la [Fédérat
 
 > ⚠️ En compétition officielle, les volants à plume sont obligatoire et génèralement fournis par les joueurs
 
+
 ## Le Système de classement
+
 
 Au badminton, il existe un système de classement qui permey d'avoir une idée d niveau du joueur. A chaque compétition, le nombre de points gagné par le joueur dépend du niveau de la compétition _(départementale, régionale, national...)_ et du résultat des matchs.
 
@@ -60,7 +68,9 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 > Seul les 6 meilleurs résultats de compétition sont retenue sur une période de un an, 
 >> par exemple si un joueur gagne 10 points à une compétition le 1 Janvier 2022, ces points ne seront plus comtabilisé dans son classement à partir du 1 Janvier 2023. Il faut donc faire des compétitions régulièrement pour garder son classement.
 
+
 ## Top 5 France
+
 
 | Rang | Nom | Prenom | Nombre de Points |
 |:----:|----:|:-------|:----------------:|
@@ -70,17 +80,23 @@ Au badminton, il existe un système de classement qui permey d'avoir une idée d
 |`4`|LANIER|Alex|15 472,85|
 |`5`|LEVERDEZ|Brice|14 348,37|
 
+
 # Auteurs
+
 
 - Leroux Mathieu [^2]
 - Rouge Gabriel [^3]
 
+
 # Autres 
+
 
 - ~~Un exemple de texte barré~~
 - la formules pour calculer les racines d'un polynôme du 2nd degrès : $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 
+
 ``` Merci de votre lecture ``` 😎
+
 
 [^1]: [un article qui détaille comment choisir sa raquette](https://colizey.fr/magazine/article/225-comment-choisir-sa-raquette-de-badminton)
 [^2]: un élève du groupe 4
